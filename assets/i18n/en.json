@@ -1,0 +1,25 @@
+{
+  "navBar": {
+    "recipes": "Recipes",
+    "profile": "Profile",
+    "logOut": "Log Out",
+    "logIn": "Log in",
+    "language": "Français"
+  },
+  "form": {
+    "name": "Name",
+    "description": "Description",
+    "categorySelect": {
+      "category": "Choose a category",
+      "breakfast": "Breakfast",
+      "lunch": "Lunch",
+      "dinner": "Dinner"
+    },
+    "addRecipe": "Add recipe!",
+    "cancel": "Cancel",
+    "validations": {
+      "categoryError": "Please select a category.",
+      "nameError": "Please provide a name."
+    }
+  }
+}
